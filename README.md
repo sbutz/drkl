@@ -1,3 +1,4 @@
 # drkl
 
-Berechnungen für den Kurs Regression und Klassifikation
+Exercises for the regression and classification module at OTH.
+
